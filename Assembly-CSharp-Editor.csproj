@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DD641ABF-8C9B-2312-2223-47BF5561A7AC}</ProjectGuid>
+    <ProjectGuid>{7AC0B59D-B4C9-EDA4-DCFE-935CE09499BB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -107,19 +107,19 @@
     <Compile Include="Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs" />
     <Compile Include="Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/2018.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -362,19 +362,19 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity3D/AprendiendoPlataformaUnity3D/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/Windows/Desarrollo/git/AprendiendoPlataformaUnity2D/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/2018.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -733,7 +733,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{2DFBA7D6-EC2F-1E08-2899-FC861FEAAA40}</Project>
+      <Project>{28F2E569-798E-749A-3276-87716B5643E2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
