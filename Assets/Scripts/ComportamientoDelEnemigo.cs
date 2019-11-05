@@ -50,6 +50,7 @@ public class ComportamientoDelEnemigo : MonoBehaviour
                 particulasDeEnemigos.transform.position = transform.position;
                 particulasDeEnemigos.Play();
                 enemigoAnimator.SetBool("estaMuerto", true);
+                GetComponentInParent<AudioSource>().Play();
             }
         }
     }

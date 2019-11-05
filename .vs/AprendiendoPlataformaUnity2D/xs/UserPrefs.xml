@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{28F2E569-798E-749A-3276-87716B5643E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Coleccionable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Coleccionable.cs" Line="15" Column="36" />
+      <File FileName="Assets/Scripts/ComportamientoDelEnemigo.cs" />
+      <File FileName="Assets/Scripts/MovimientoJugador.cs" />
+      <File FileName="Assets/Scripts/SaludJugador.cs" Line="39" Column="58" />
+      <File FileName="Assets/Scripts/MetaComportamiento.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/CambiadorDeEscena.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AprendiendoPlataformaUnity2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Cinemachine" expanded="True">
+                <Node name="Timeline" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Coleccionable.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fa56cc5c-e0c4-4142-a95d-c5ef81bfda18" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
